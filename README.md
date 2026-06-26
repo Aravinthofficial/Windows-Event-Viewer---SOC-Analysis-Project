@@ -1,4 +1,4 @@
-# Windows Event Viewer - SOC Analysis Project
+# Windows Event Viewer - SOC Analysis Skill
 
 ## 📌 Project Overview
 
