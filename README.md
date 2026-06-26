@@ -52,23 +52,23 @@ Important Event IDs:
 
  - Collect Logs
      ↓
- -Identify Event ID
+ - Identify Event ID
      ↓
- -Analyze Details
+ - Analyze Details
      ↓
- -Find Suspicious Activity
+ - Find Suspicious Activity
      ↓
- -Create Incident Report
+ - Create Incident Report
      ↓
- -Take Response Action
+ - Take Response Action
 
 ## 📊 Skills Demonstrated
- -Windows Log Analysis
- -Event ID Investigation
- -User Activity Monitoring
- -Threat Detection
- -Incident Response Basics
- -SOC Investigation
+ - Windows Log Analysis
+ - Event ID Investigation
+ - User Activity Monitoring
+ - Threat Detection
+ - Incident Response Basics
+ - SOC Investigation
 
 
 
