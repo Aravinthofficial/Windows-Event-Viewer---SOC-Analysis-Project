@@ -260,7 +260,3 @@ Windows-EventViewer-User-Login-Analysis/
 This project demonstrates how Windows Event Viewer can be used to monitor authentication events by analyzing Security Event IDs **4624** (Successful Logon) and **4625** (Failed Logon). Understanding these events helps security analysts detect unauthorized access attempts, investigate login activities, and strengthen Windows security monitoring.
 
 ---
-
-
-
-GitHub: https://github.com/Aravinthofficial
